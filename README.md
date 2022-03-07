@@ -1,7 +1,6 @@
 ### Hi there 👋 I'm Wayne
 
 
-Here are some ideas to get you started:
 
  🔭 I’m currently working on new ideas
  🌱 I’m currently learning HTML, CSS (Bootstrap) and JavaScript
