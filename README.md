@@ -3,7 +3,8 @@
 
 
  🔭 I’m currently working on new ideas
- 🌱 I’m currently learning HTML, CSS (Bootstrap) and JavaScript
+<!--  🌱 I’m currently learning HTML, CSS (Bootstrap) and JavaScript -->
+ 🌱 I'm open to collaborate on new projects
  
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=WayneMusungu&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
  
