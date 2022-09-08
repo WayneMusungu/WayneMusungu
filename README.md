@@ -3,7 +3,7 @@ Hi there 👋 I'm Wayne<br><br>I am a passionate software developer who speciali
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wayne-musungu-175152031825/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@waynemusungu18) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wayne-musungu-175152031825/) 
 
 ![](https://komarev.com/ghpvc/?username=WayneMusungu)
 
@@ -23,3 +23,4 @@ Hi there 👋 I'm Wayne<br><br>I am a passionate software developer who speciali
 
 ---
 [![](https://visitcount.itsvg.in/api?id=WayneMusungu&icon=7&color=6)](https://visitcount.itsvg.in)
+
