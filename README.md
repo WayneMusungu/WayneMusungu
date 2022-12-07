@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋 I'm Wayne<br><br>I am a passionate software developer who specializes in web applications. I strive in not only to have simplicity and elegance in my solutions but also to deliver impact to the end-user.<br><br>👯 Open  to collaborating on projects<br>🌱 The only way to grow is to keep on learning<br>⚡ Backend Developer<br>💬 Portfolio Website https://wayne-musungu-portfolio.herokuapp.com/<br>
+Hi there 👋 I'm Wayne<br><br>I am a passionate software developer who specializes in web applications. I strive in not only to have simplicity and elegance in my solutions but also to deliver impact to the end-user.<br><br>👯 Open  to collaborating on projects<br>🌱 The only way to grow is to keep on learning<br>⚡ Backend Developer<br>
 
 
 ## 🌐 Socials:
