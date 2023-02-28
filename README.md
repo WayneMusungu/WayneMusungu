@@ -22,5 +22,5 @@ Hi there 👋 I'm Wayne<br><br>I am a passionate software developer who speciali
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=WayneMusungu&icon=7&color=6)](https://visitcount.itsvg.in)
-
+<!-- [![](https://visitcount.itsvg.in/api?id=WayneMusungu&icon=7&color=6)](https://visitcount.itsvg.in)
+ -->
